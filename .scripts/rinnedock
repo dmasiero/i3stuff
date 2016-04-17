@@ -1,0 +1,3 @@
+xrandr --output DP2 --off
+xrandr --output DP2 --auto --above eDP1
+nitrogen --restore

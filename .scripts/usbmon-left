@@ -1,0 +1,2 @@
+xrandr --output DVI-1-0 --auto --left-of eDP1
+nitrogen --restore

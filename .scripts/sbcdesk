@@ -1,0 +1,4 @@
+xrandr --output DP2-1 --mode 1600x900
+xrandr --output eDP1 --mode 1600x900
+xrandr --output DP2-1 --left-of eDP1
+nitrogen --restore
